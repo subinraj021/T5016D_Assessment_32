@@ -1,27 +1,26 @@
-# System for Ticket Management
- 
-A basic ticket management system that tracks tickets that are generated, resolved, and still need to be handled is provided by this Python script. Each ticket's data and statistics are printed out.
- 
- 
+
+ #Name of Project
+
+A brief description of the project's actions or the issue it resolves.
+
+
+## Contents Table
+
+- [Contributing] (#contributing) - [Usage] (#usage) - [Installation] (#installation) - [License] (#license)
+
+## Setup
+
+directions for downloading the project and any required libraries.
+
 ## Application
- 
-1. Make a local copy of this repository.
-2. Verify that Python is installed.
-3. Locate the script's directory by opening a terminal and going there.
-4. Use the following command to launch the script: `{{bash} python ticket_system.py} {{
-5. The script will show facts and statistics about tickets.
- 
-## Features
- 
-- Generates Ticket objects with characteristics like status, creator, email, description, response, and ticket number from staff IDs.
-- Prints data on the amount of tickets that have been created, resolved, and still need to be solved.
-Prints each ticket's information, including the number, the originator, the staff ID, the email, the description, the answer, and the status.
- 
-## Sample Results
- 
- 
-The script's output will look something like this:
- 
- License
- 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+a set of rules of usage or examples for the project.
+
+## Participating
+
+Guidelines regarding project contribution. Information on how to report defects, offer enhancement recommendations, or send pull requests might have been included in here.
+
+## Permission
+
+Information about licensing for the project. This could include any extra terms or conditions and the kind of license (MIT, Apache 2.0, etc.).
+
